@@ -1,0 +1,11 @@
+{
+  "name": "node.js_task",
+  "version": "1.0.0",
+  "description": "primitive API on NodeJS + Express + Mongo ",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Maria Prylypchenko",
+  "license": "UNLICENSED"
+}
