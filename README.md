@@ -1,8 +1,8 @@
 # node.js_task
 
 To run API:
- 1. Add your configs for mongodb to line 9 and 10 of index.js
- 2. Run index.js(for example print "node index.js" to command line in project directory)
+ 1. Add your configs for mongodb to config.js file.
+ 2. Run index.js(for example print "node index.js" to command line in project directory or npm run-script start)
  
 To test first endpoint send POST request with users.csv file in form-data to http://localhost:3000/users/csv.
 To test second endpoint send GET request to http://localhost:3000/users/csv.
